@@ -1,10 +1,3 @@
-// const messages = ["You'll be very lucky on ", "You are having ", "You should drink"];
-// const messageComplement = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"];
-
-// let random = Math.floor(Math.random() * 5)
-// let phrase = message + messageComplement[random] + ".";
-// console.log(phrase);
-
 const phrases = {
    
     messages: ["You'll be very lucky on ", "You are having ", "You should drink ", "Your lucky number today is ", "Perhaps you're focusing too much on ", "I can't help you, ", "You should start "],
